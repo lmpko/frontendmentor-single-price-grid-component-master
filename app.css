@@ -118,10 +118,12 @@ section{
         "overview overview"
         "subscription about" ;
         width: 40rem;
+        height: 30rem;
     }
 
     .overview{
         grid-area: overview;
+        padding-right: 2.5rem ;
     }
 
     .subscription{
