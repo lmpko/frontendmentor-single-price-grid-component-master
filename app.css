@@ -7,7 +7,7 @@
     --tertiary-color: hsl(204, 43%, 93%);
     --fouthary-color: hsl(218, 22%, 67%);
 
-    --fifthary-color: hsl(179, 52%, 64%);
+    --fifthary-color: hsl(179, 41%, 55%);
 }
 
 body{
@@ -67,6 +67,7 @@ section{
 .subscription h1{
     font-size: 16px;
     padding-bottom: 1.5625rem;
+    font-weight: 700;
 }
 
 .price{
@@ -78,6 +79,7 @@ section{
 .price span:first-child{
     font-size: 32px;
     padding: 0 .625rem 0 0;
+    font-weight: 700;
     
 }
 
@@ -100,6 +102,7 @@ section{
 
 .about h1{
     font-size: 16px;
+    font-weight: 700;
 }
 
 .about ul{
