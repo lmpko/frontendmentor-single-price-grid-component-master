@@ -1,0 +1,15 @@
+/* font-family: 'Karla', sans-serif; */
+
+:root{
+    --primary-color: hsl(179, 62%, 43%);
+    --secondary-color: hsl(71, 73%, 54%);
+
+    --tertiary-color: hsl(204, 43%, 93%);
+    --fouthary-color: hsl(218, 22%, 67%);
+}
+
+body{
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+}
