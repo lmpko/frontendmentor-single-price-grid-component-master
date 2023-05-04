@@ -27,6 +27,7 @@ h1,p{
 
 main{
     margin: 0 1.875rem;
+    border-radius: .9375rem;
 }
 
 section{
@@ -75,7 +76,7 @@ section{
     margin-bottom: 1.25rem;
 }
 .price span:first-child{
-    font-size: 24px;
+    font-size: 32px;
     padding: 0 .625rem 0 0;
     
 }
@@ -87,6 +88,8 @@ section{
     width: 100%;
     border-radius: .3125rem;
     margin-top: 35px;
+    color: var(--tertiary-color);
+    box-shadow: 0 5px 15px -8px black;
 }
 
 .about{
@@ -119,6 +122,7 @@ section{
         "subscription about" ;
         width: 40rem;
         height: 30rem;
+        box-shadow: 0 5px 15px -8px black;
     }
 
     .overview{
